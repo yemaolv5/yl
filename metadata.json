@@ -1,0 +1,8 @@
+{
+  "name": "智汇红心·科享万家",
+  "description": "呼和浩特呼伦贝尔南路街道亿利社区线上服务指引，整合周边商业、便民服务、社区公告与邻里互助一站式平台。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
